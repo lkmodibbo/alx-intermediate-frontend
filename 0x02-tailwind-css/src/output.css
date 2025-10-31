@@ -1,0 +1,25 @@
+/* output.css — manually created example */
+body {
+  font-family: sans-serif;
+  background-color: #f8fafc; /* same as bg-gray-50 */
+}
+
+.text-center {
+  text-align: center;
+}
+
+.bg-blue-500 {
+  background-color: #3b82f6;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
