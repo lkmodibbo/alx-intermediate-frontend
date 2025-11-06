@@ -1,0 +1,14 @@
+# Steps to install SASS (on Windows using VS Code terminal)
+
+1. Downloaded and installed Node.js (which includes npm) from:
+   https://nodejs.org/en/download
+
+2. Verified the installation:
+   > node -v
+   > npm -v
+
+3. Installed SASS globally using npm:
+   > npm install -g sass@3.7.4
+
+4. Verified SASS installation:
+   > sass --version
